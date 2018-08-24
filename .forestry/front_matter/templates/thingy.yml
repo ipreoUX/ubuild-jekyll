@@ -1,0 +1,10 @@
+---
+label: thingy
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  name: news
+  label: News
+  template_types:
+  - hero-banner-w-image
